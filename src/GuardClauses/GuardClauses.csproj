@@ -6,7 +6,7 @@
         <None Include="..\..\LICENSE" Pack="true" PackagePath="" />
     </ItemGroup>
     <PropertyGroup>
-        <TargetFrameworks>net7.0;netstandard2.1;netstandard2.0</TargetFrameworks>
+        <TargetFrameworks>net8.0</TargetFrameworks>
         <PackageId>Ardalis.GuardClauses</PackageId>
         <Title>Ardalis.GuardClauses</Title>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
@@ -24,7 +24,7 @@
             * StringLengthOutOfRange #333
             * Compiler Warning Fixes #335
         </PackageReleaseNotes>
-        <Version>4.4.0</Version>
+        <Version>4.4.1</Version>
         <AssemblyName>Ardalis.GuardClauses</AssemblyName>
         <PackageIcon>icon.png</PackageIcon>
         <PublishRepositoryUrl>true</PublishRepositoryUrl>
